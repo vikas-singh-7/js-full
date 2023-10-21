@@ -24,7 +24,7 @@ arr1.shift();  // delete the first index
 console.log(arr1);
 
 // lastly shift removes the first index means 0 along with value
-// unshit adds a new value at very 0 index and make orev value on index 2
+// unshit adds a new value at very 0 index and make orev value on index 1
 
 
 
