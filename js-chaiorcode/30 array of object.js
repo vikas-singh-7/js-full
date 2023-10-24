@@ -3,17 +3,17 @@
 // lets see an example
 
 var arr = [
-    {
+    {     // o index 
         name :'vikas',
         lname:"singh",
         age:22
     },
-    {
+    {   // 1 index 
         name :'rohit',
         lname:"singh",
         age:20
     },
-    {
+    {   // 2 index
         name :'vishal',
         lname:"singh",
         age:19
